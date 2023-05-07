@@ -16,6 +16,7 @@ Demo de Tacotron2+HiFiGAN
 
  *  El Tugurio respira casi vacío, pero aún así mira en todas direcciones para que nadie le escuche.
 
+   https://user-images.githubusercontent.com/93993439/236477455-52b925e5-0df4-4253-bb9c-320988731d4a.mp4 
    https://user-images.githubusercontent.com/93993439/236477455-52b925e5-0df4-4253-bb9c-320988731d4a.mp4
        
  *  Entonces Silvio recibió una llamada al móvil y dijo que salía a la calle a contestar.
