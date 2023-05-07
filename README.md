@@ -60,6 +60,12 @@ Demo de Tacotron2+HiFiGAN
 
 ### Muestras de duración larga
 
+ * Podría vivir en un chalet en la zona pudiente de San Vicente del Raspeig, en un apartamento de doscientos metros cuadrados a pie de playa en San Joan o en un ático en pleno centro de la ciudad, pero el viejo patriarca ha decidido mostrar una imagen de humildad y continúa en el barrio de toda la vida.
+
+  https://user-images.githubusercontent.com/93993439/236508525-c2ef8897-d517-4263-8de1-b9715f8d3ddf.mp4
+  
+  https://user-images.githubusercontent.com/93993439/236683880-5f4592d1-38a0-4a8c-9428-fad68a3a5d70.mp4
+
  * Fuera, en algo parecido a un patio de recreo, las alambradas se enroscan como sierpes de espino metálico, muros de más de quince metros evitan que pase la luz y las torres de vigilancia, más altas todavía, reflejan el sol en sus cristales espejados.
  
   https://user-images.githubusercontent.com/93993439/236508414-a5a6696a-c009-42b1-8a05-14ff65a786a9.mp4
@@ -89,12 +95,6 @@ Demo de Tacotron2+HiFiGAN
   https://user-images.githubusercontent.com/93993439/236508517-d9b41acf-4792-4a18-b30a-306f8cec09c3.mp4
   
   https://user-images.githubusercontent.com/93993439/236683785-ed4b17af-afba-464a-82da-7329a04d57da.mp4
-
- * Podría vivir en un chalet en la zona pudiente de San Vicente del Raspeig, en un apartamento de doscientos metros cuadrados a pie de playa en San Joan o en un ático en pleno centro de la ciudad, pero el viejo patriarca ha decidido mostrar una imagen de humildad y continúa en el barrio de toda la vida.
-
-  https://user-images.githubusercontent.com/93993439/236508525-c2ef8897-d517-4263-8de1-b9715f8d3ddf.mp4
-  
-  https://user-images.githubusercontent.com/93993439/236683880-5f4592d1-38a0-4a8c-9428-fad68a3a5d70.mp4
   
  * Cada vez que tenía ocasión y dinero, se marchaba de viaje, tal vez para huir de sí mismo, tal vez para encontrarse en otra parte, para empezar de cero, para repetir los errores del pasado.
  
