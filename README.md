@@ -1,5 +1,5 @@
 # Voice_Cloning
-Demo de Tacotron2+HiFiGAN
+Demo de Tacotron 2 + HiFi-GAN
 
 
 ## Abstract
