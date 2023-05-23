@@ -7,9 +7,16 @@ Demo de Tacotron 2 + HiFi-GAN
 
 
 ## Índice
+ * GIFs del alineamiento y de los espectrogramas en test.
  * Muestras de duración corta (entre 1 y 10 segundos)
  * Muestras de duración larga (más de 10 segundos).
 
+
+## GIFs del alineamiento y de los espectrogramas en test.
+
+![gif_alineamiento](https://github.com/AngelGuevara7/Voice_Cloning/assets/93993439/d5f379bc-d6b0-4ca8-8f9c-dabb580513c0)
+
+![gif_espectrograma](https://github.com/AngelGuevara7/Voice_Cloning/assets/93993439/a8c5db16-2e89-48a3-86ef-3b931e324e71)
 
 
 ### Muestras de duración corta 
